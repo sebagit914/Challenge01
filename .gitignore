@@ -1,0 +1,14 @@
+/.vs
+/packages
+/Alten.API/bin
+/Alten.API/obj
+/Alten.API.Tests/bin
+/Alten.API.Tests/obj
+/Alten.BL/bin
+/Alten.BL/obj
+/Alten.Data/bin
+/Alten.Data/obj
+/Alten.DTO/bin
+/Alten.DTO/obj
+/alten.ui/node_modules
+
